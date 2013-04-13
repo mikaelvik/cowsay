@@ -1,0 +1,24 @@
+##
+## 4.4 >> 5.4
+##
+$the_cow = <<EOC;
+        $thoughts           ,        ,       
+        $thoughts          `(        )\     
+        $thoughts        | \   ___// //    
+        $thoughts          '  \-`  _ -\            
+        $thoughts      //\   // // \//\)           
+        $thoughts        //    ` |   \ \           
+        $thoughts         |    \ (   O O           
+        $thoughts         '     >`'--^-`           
+        $thoughts          \   (  _  (._)          
+        $thoughts           \    `\___.`           
+        $thoughts            \ '-----`             
+        $thoughts           //   __ \ __     .---->
+         $thoughts$thoughts     ====\ (// (==(((O====|---->
+           $thoughts$thoughts      // ',__.` '--`    '---->
+             $thoughts$thoughts$thoughts$thoughts  |        |             
+                  \       //              
+            ______// \  _) )______        
+           //        |   '-----,  ',      
+          \//        (__________}--`      
+EOC

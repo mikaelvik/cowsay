@@ -1,0 +1,11 @@
+##
+## A small cow, artist unknown
+##
+$eyes = ".." unless ($eyes);
+$the_cow = <<EOC;
+        $thoughts
+         $thoughts      ,__,        
+          $thoughts ____($eyes)  
+          /(    (__)           
+         * ||--||$tongue
+EOC
